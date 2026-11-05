@@ -1,6 +1,6 @@
 # ForgeFlow
 
-> Concept: From specification to working build.
+A software factory cockpit turning a product specification into a coordinated, reviewable build pipeline.
 
 An ACRYL Blends blueprint for the **Software Factories** category (`acrylblends.forgeflow`, category 97 of 100).
 
